@@ -1,28 +1,10 @@
 <br clear="both">
 
-<p align="left"><head></p>
-
-###
-
-<br clear="both">
-
 <h3 align="center">albertnguyen.com</h3>
 
 ###
 
 <h6 align="center">code4food</h6>
-
-###
-
-<br clear="both">
-
-<p align="left"></head></p>
-
-###
-
-<br clear="both">
-
-<p align="left"><main></p>
 
 ###
 
@@ -38,18 +20,6 @@
 
 ###
 
-<br clear="both">
-
-<p align="left"></main></p>
-
-###
-
-<br clear="both">
-
-<p align="left"><skills></p>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -59,9 +29,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
-
-###
-
-<p align="left"></skills></p>
 
 ###
