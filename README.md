@@ -1,20 +1,52 @@
+<br clear="both">
+
+<p align="left"><head></p>
+
+###
+
+<br clear="both">
+
+<h3 align="center">albertnguyen.com</h3>
+
+###
+
+<h6 align="center">code4food</h6>
+
+###
+
+<br clear="both">
+
+<p align="left"></head></p>
+
+###
+
+<br clear="both">
+
+<p align="left"><main></p>
+
+###
+
 <img src="https://raw.githubusercontent.com/sr-albert/sr-albert/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<p align="center">Hello, World!!</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sr-albert&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=sr-albert&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=sr-albert&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<p align="center">albertnguyen.com</p>
+<p align="left"></main></p>
 
 ###
 
 <br clear="both">
 
-<p align="center">----</p>
+<p align="left"><skills></p>
 
 ###
 
@@ -27,5 +59,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
+
+###
+
+<p align="left"></skills></p>
 
 ###
